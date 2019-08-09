@@ -4,94 +4,16 @@
 		<title>The News Panels</title>
 		<description>The news in comics.</description>
 		<link>https://thenewspanels.com</link>
-		
 		<item>
-			<title></title>
-			<pubDate>2019-08-09T14:53:48+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000007/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000007/</guid>
+			<title>Philadelphian Born US Citizen Nearly Deported by ICE</title>
+			<description>Peter Sean Brown, a (Philadelphia born) Florida resident, was arrested for his illegal use of marijuana. However, instead of treating him like other U.S. citizens, he was flagged for deportation.</description>
+			<pubDate>2019-06-26T21:59:37+00:00</pubDate>
+			<link>https://thenewspanels.com/comics/us-ice-deportation/</link>
+			<guid isPermaLink="true">https://thenewspanels.com/comics/us-ice-deportation/</guid>
 			<content type="html">
 			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000007/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/2019/05/18/panel 1.jpg" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-02-24T23:16:44+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000006/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000006/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000006/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/2019/02/24/shot 7b (1).jpg" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-04-20T02:32:53+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000005/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000005/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000005/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/2019/04/21/1.png" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-08-09T14:53:48+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000004/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000004/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000004/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/2019/05/16/bitcoin.1.1.jpg" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-02-19T02:03:50+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000003/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000003/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000003/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/np1 (1)-4.jpg" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-08-09T14:53:48+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000002/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000002/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000002/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/2019/05/04/PG 1 -1.jpg" />
-			    </a>
-			  ]]>
-			</content>
-		</item>
-		<item>
-			<title></title>
-			<pubDate>2019-08-09T14:53:48+00:00</pubDate>
-			<link>https://thenewspanels.com/comics/000001/</link>
-			<guid isPermaLink="true">https://thenewspanels.com/comics/000001/</guid>
-			<content type="html">
-			  <![CDATA[
-			    <a href="https://thenewspanels.com/comics/000001/">
-			      <img alt="test_pic" src="https://thenewspanels.com/images/comics/1/1.png" />
+			    <a href="https://thenewspanels.com/comics/us-ice-deportation/">
+			      <img alt="Peter Sean Brown, a (Philadelphia born) Florida resident, was arrested for his illegal use of marijuana. However, instead of treating him like other U.S. citizens, he was flagged for deportation." src="//a.storyblok.com/f/60560/1000x811/c6e8c52555/1.png" />
 			    </a>
 			  ]]>
 			</content>
