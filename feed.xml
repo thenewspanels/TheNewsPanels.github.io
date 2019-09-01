@@ -17,6 +17,45 @@
 			    </a>
 			  ]]>
 			</content>
+		</item><item>
+			<title>Testy</title>
+			<description>Work please!</description>
+			<pubDate>2019-08-31T22:22:00+00:00</pubDate>
+			<link>https://thenewspanels.com/comics/2ab79365-8fa7-443d-a1c0-8e8c88d16f37/</link>
+			<guid isPermaLink="true">https://thenewspanels.com/comics/2ab79365-8fa7-443d-a1c0-8e8c88d16f37/</guid>
+			<content type="html">
+			  <![CDATA[
+			    <a href="https://thenewspanels.com/comics/2ab79365-8fa7-443d-a1c0-8e8c88d16f37/">
+			      <img alt="Check One Two" src="//a.storyblok.com/f/60560/8000x4500/c088307902/panel_01.jpg" />
+			    </a>
+			  ]]>
+			</content>
+		</item><item>
+			<title>ONE MORE TIME WORK</title>
+			<description>THIS IS SO UNINTUITIVE</description>
+			<pubDate>2019-08-31T22:55:59+00:00</pubDate>
+			<link>https://thenewspanels.com/comics/one-more-time-work/</link>
+			<guid isPermaLink="true">https://thenewspanels.com/comics/one-more-time-work/</guid>
+			<content type="html">
+			  <![CDATA[
+			    <a href="https://thenewspanels.com/comics/one-more-time-work/">
+			      <img alt="NUMBER TWO" src="//a.storyblok.com/f/60560/8000x4500/4d2b8dfc87/panel_02.jpg" />
+			    </a>
+			  ]]>
+			</content>
+		</item><item>
+			<title>DA HELL</title>
+			<description>asdfsad</description>
+			<pubDate>2019-08-31T22:50:28+00:00</pubDate>
+			<link>https://thenewspanels.com/comics/</link>
+			<guid isPermaLink="true">https://thenewspanels.com/comics/</guid>
+			<content type="html">
+			  <![CDATA[
+			    <a href="https://thenewspanels.com/comics/">
+			      <img alt="asdf" src="//a.storyblok.com/f/60560/8000x4500/7607cc9515/panel_03.jpg" />
+			    </a>
+			  ]]>
+			</content>
 		</item>
 	</channel>
 </rss>
